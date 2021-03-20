@@ -46,7 +46,7 @@ namespace NewsSiteBackend.Data
 
         public List<Photo> GetPhotosByNews(int newsId)
         {
-            var photos = _context.Photos.Where(p => p.CityId == newsId).ToList();
+            var photos = _context.Photos.Where(p => p.NewsId == newsId).ToList();
             return photos;
         }
 
@@ -56,3 +56,4 @@ namespace NewsSiteBackend.Data
         }
     }
 }
+

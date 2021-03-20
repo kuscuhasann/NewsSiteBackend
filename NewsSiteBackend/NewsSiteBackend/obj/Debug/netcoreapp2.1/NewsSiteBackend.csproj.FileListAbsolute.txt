@@ -4,3 +4,14 @@ C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSite
 C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.csproj.CoreCompileInputs.cache
 C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.RazorAssemblyInfo.cache
 C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.RazorAssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\NewsSiteBackend.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\NewsSiteBackend.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\NewsSiteBackend.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\NewsSiteBackend.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\bin\Debug\netcoreapp2.1\NewsSiteBackend.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.RazorTargetAssemblyInfo.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.genruntimeconfig.cache
