@@ -1,0 +1,6 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.RazorAssemblyInfo.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\NewsSiteBackend\NewsSiteBackend\NewsSiteBackend\obj\Debug\netcoreapp2.1\NewsSiteBackend.RazorAssemblyInfo.cs
