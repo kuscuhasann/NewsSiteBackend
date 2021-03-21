@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 namespace NewsSiteBackend.Controllers
 {
     [Produces("application/json")]
-    [Route("api/Auth")]
+    [Route("api/auth")]
     public class AuthController : ControllerBase
     {
         private IAuthRepository _authRepository;
