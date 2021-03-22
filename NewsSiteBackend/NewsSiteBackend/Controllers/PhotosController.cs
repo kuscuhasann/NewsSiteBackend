@@ -89,8 +89,14 @@ namespace NewsSiteBackend.Controllers
 
             if (_appRepository.SaveAll())
             {
-                var photoToReturn = _mapper.Map<PhotoForReturnDto>(photo);
-                return CreatedAtRoute("GetPhoto", new { id = photo.Id }, photoToReturn);
+                try
+                {
+                    var photoToReturn = _mapper.Map<PhotoForReturnDto>(photo);
+                    return CreatedAtRoute("GetPhoto", new { id = photo.Id }, photoToReturn);
+                }
+                catch(Exception e) {
+                    
+                }
 
             }
             return BadRequest("Could not add the photo");
