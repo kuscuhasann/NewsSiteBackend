@@ -18,5 +18,6 @@ namespace NewsSiteBackend.Models
 
         public List<Photo> Photos { get; set; }
         public User User { get; set; }
+        public Category Category { get; set; }
     }
 }

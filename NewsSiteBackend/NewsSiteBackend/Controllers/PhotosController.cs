@@ -95,7 +95,7 @@ namespace NewsSiteBackend.Controllers
                     return CreatedAtRoute("GetPhoto", new { id = photo.Id }, photoToReturn);
                 }
                 catch(Exception e) {
-                    
+                    //maybe add log
                 }
 
             }
