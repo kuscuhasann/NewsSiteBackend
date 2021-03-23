@@ -46,6 +46,7 @@ namespace NewsSiteBackend
             services.AddCors();
             services.AddScoped<IAppRepository, AppRepository>();
             services.AddScoped<IAuthRepository, AuthRepository>();
+            services.AddScoped<ICategoryService, CategoryService>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
             {
                 options.TokenValidationParameters = new TokenValidationParameters
