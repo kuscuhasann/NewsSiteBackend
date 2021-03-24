@@ -26,6 +26,11 @@ namespace NewsSiteBackend.Data
             _context.Remove(entity);
         }
 
+        public List<News> GetAllByCategoryId(int id)
+        {
+            return new List<News>(_context.News.Where(n => n.CategoryId == id)).ToList();
+        }
+
         public List<News> GetNews()
         {
             var news = _context.News.Include(c => c.Photos).ToList();

@@ -16,5 +16,6 @@ namespace NewsSiteBackend.Data
         List<Photo> GetPhotosByNews(int newsId);
         News GetNewsById(int newsId);
         Photo GetPhoto(int id);
+        List<News> GetAllByCategoryId(int id);
     }
 }

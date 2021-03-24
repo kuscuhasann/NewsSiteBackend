@@ -57,5 +57,16 @@ namespace NewsSiteBackend.Controllers
             var photos = _appRepository.GetPhotosByNews(newsId);
             return Ok(photos);
         }
+        [HttpGet("getbycategory")]
+        public ActionResult GetByCategory(int categoryId)
+        {
+            var result = _appRepository.GetAllByCategoryId(categoryId);
+            if (result==null)
+            {
+                return BadRequest(result);
+            }
+
+            return Ok(result);
+        }
     }
 }
