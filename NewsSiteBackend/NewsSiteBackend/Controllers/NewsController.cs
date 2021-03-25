@@ -61,12 +61,13 @@ namespace NewsSiteBackend.Controllers
         public ActionResult GetByCategory(int categoryId)
         {
             var result = _appRepository.GetAllByCategoryId(categoryId);
+            var newsToReturn = _mapper.Map<List<NewsForListDto>>(result);
             if (result==null)
             {
                 return BadRequest(result);
             }
 
-            return Ok(result);
+            return Ok(newsToReturn);
         }
     }
 }

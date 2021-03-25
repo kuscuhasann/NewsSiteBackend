@@ -28,7 +28,7 @@ namespace NewsSiteBackend.Data
 
         public List<News> GetAllByCategoryId(int id)
         {
-            return new List<News>(_context.News.Where(n => n.CategoryId == id)).ToList();
+            return new List<News>(_context.News.Include(p => p.Photos).Where(n => n.CategoryId == id)).ToList();
         }
 
         public List<News> GetNews()
