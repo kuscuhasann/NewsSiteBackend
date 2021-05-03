@@ -39,7 +39,8 @@ namespace NewsSiteBackend.Data
 
         public News GetNewsById(int newsId)
         {
-            var news = _context.News.Include(c => c.Photos).FirstOrDefault(c => c.Id == newsId);
+
+            var news = (_context.News.Include(c => c.Photos).Where(n=>n.Id==newsId)).FirstOrDefault(c => c.Id == newsId);
             return news;
         }
 
